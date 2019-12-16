@@ -7,12 +7,14 @@ body{
   text-align: center;
 
 }
+p{
+  font-size: 25px;
+}
 
 .ins{
   margin-top:50px;
   text-align: center;
   color:#F2B6C1;
-  font-size: 25px;
 }
 .button{
   margin-left: 500px;
