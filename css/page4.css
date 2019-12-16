@@ -12,6 +12,7 @@ body{
   margin-top:50px;
   text-align: center;
   color:#F2B6C1;
+  font-size: 25px;
 }
 .button{
   margin-left: 500px;
@@ -20,12 +21,13 @@ body{
 .button1 {
   background-color:#F2B6C1;
   border-radius: 12px;
-  color: #F2E63D;
+  color: #FFEF00;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 18px;
+  font-weight: bold;
   font-family: 'Architects Daughter', cursive;
   float:left;
 }

@@ -20,7 +20,7 @@ h1{
   text-align: center;
 }
 p{
-  font-size: 20px;
+  font-size: 25px;
   font-variant: normal;
  font-family: 'Rancho', cursive;
  color: #FFF777;
@@ -29,12 +29,13 @@ p{
 .button1 {
   background-color:#F2B6C1;
   border-radius: 12px;
-  color: #F2E63D;
+  color: #FFEF00;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 18px;
+  font-weight: bold;
   float: left;
   font-family: 'Architects Daughter', cursive;
 }
@@ -46,23 +47,25 @@ button:hover{
 .button2 {
   background-color:#F2B6C1;
   border-radius: 12px;
-  color: #F2E63D;
+  color: #FFEF00;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 18px;
+  font-weight: bold;
   font-family: 'Architects Daughter', cursive;
 }
 .button3 {
   background-color:#F2B6C1;
   border-radius: 12px;
-  color: #F2E63D;
+  color: #FFEF00;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 18px;
+  font-weight: bold;
   float: right;
   font-family: 'Architects Daughter', cursive;
 }
